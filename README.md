@@ -2,7 +2,7 @@
 
 | Profile | Contact |
 | :--- | :--- |
-| **Data Science & Mathematics Student**<br>Tecnológico de Monterrey (ITESM)<br><br>Passionate about data, algorithms, and software development. | <a href="https://www.linkedin.com/in/santiago-salda%C3%B1a-328049325/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br><br><a href="mailto:sssubias@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> |
+| **Data Science & Mathematics Student**<br>Tecnológico de Monterrey (ITESM)<br><br>Immersed in data, algorithms, and software development. | <a href="https://www.linkedin.com/in/santiago-salda%C3%B1a-328049325/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br><br><a href="mailto:sssubias@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> |
 
 ### Tech Stack
 
