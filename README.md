@@ -1,11 +1,12 @@
 <div align="center">
 
 <h1>Santiago Saldaña Subías</h1>
+<br>
 
 <table>
   <tr>
     <th align="left">Profile</th>
-    <th align="left">Contact</th>
+    <th align="center">Links</th>
   </tr>
   <tr>
     <td align="left">
@@ -15,10 +16,13 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/santiago-salda%C3%B1a-328049325/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br><br>
+      <a href="https://huggingface.co/Santiago64"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face"></a><br><br>
       <a href="mailto:sssubias@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     </td>
   </tr>
 </table>
+
+<br>
 
 <h3>Tech Stack</h3>
 
@@ -40,6 +44,8 @@
   </tr>
 </table>
 
+<br>
+
 <h3>Highlighted Projects</h3>
 
 <table>
@@ -57,8 +63,10 @@
   </tr>
 </table>
 
-<br>
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=SantiagoSaldanaS&show_icons=true&theme=tokyonight&hide_border=true" alt="Santiago's GitHub Stats" />
+
+<br><br><br>
 
 </div>
