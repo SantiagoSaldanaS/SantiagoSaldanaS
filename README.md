@@ -64,6 +64,6 @@
 
 <br>
 
-<img src="https://github-readme-stats-bwpb7rb42-santiagosaldanas-projects.vercel.app/api?username=SantiagoSaldanaS&show_icons=true&theme=tokyonight&hide_border=true" alt="Santiago's GitHub Stats" />
+<img src="https://github-readme-stats-bice-omega-13.vercel.app/api?username=SantiagoSaldanaS&show_icons=true&theme=tokyonight&hide_border=true" alt="Santiago's GitHub Stats" />
 
 </div>
