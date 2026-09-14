@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="left"><strong><a href="https://github.com/SantiagoSaldanaS/DAVE">DAVE</a></strong></td>
-    <td align="left">Driver attention and fatigue monitoring system. 1st Place Winner at Expo Ingenierías 2026 (Tec de Monterrey).</td>
+    <td align="left">YOLOv8 + Bi-LSTM Driver attention and fatigue monitoring system. 1st Place Winner at Expo Ingenierías 2026 (Tec de Monterrey).</td>
   </tr>
 </table>
 
