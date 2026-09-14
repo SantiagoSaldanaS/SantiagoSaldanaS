@@ -60,6 +60,10 @@
     <td align="left"><strong><a href="https://github.com/SantiagoSaldanaS/ai_image_detection">AI Image Detection</a></strong></td>
     <td align="left">Hybrid DeepFake detector combining a ResNet-50 CNN and a Vision Transformer to identify AI-generated images.</td>
   </tr>
+  <tr>
+    <td align="left"><strong><a href="https://github.com/SantiagoSaldanaS/DAVE">DAVE</a></strong></td>
+    <td align="left">Driver attention and fatigue monitoring system. 1st Place Winner at Expo Ingenierías 2026 (Tec de Monterrey).</td>
+  </tr>
 </table>
 
 <br>
